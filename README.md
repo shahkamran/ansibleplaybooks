@@ -3,3 +3,5 @@ This guide includes few practice Ansible playbooks that you can use as example o
 
 # Integrating within Atom
 I am installing Atom to be able to edit and update repository using one of the best editor.
+
+I couldn't get the integration working but have managed to install Git and can run the linux equivilant commands in Windows including "git clone", "git commit -a "comments"" and "git push".
