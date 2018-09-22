@@ -1,0 +1,5 @@
+---
+- hosts: cc
+  become: true
+  roles:
+   - control
