@@ -1,0 +1,10 @@
+[cc]
+control ansible_connection=local
+[apps]
+app01
+app02
+[dbs]
+db01
+[lbs]
+lb01
+

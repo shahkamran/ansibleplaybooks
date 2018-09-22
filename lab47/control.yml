@@ -1,0 +1,6 @@
+---
+- hosts: cc
+  become: true
+  gather_facts: false
+  roles:
+   - control
