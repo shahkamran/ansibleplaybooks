@@ -1,0 +1,6 @@
+---
+- hosts: lbs
+  become: true
+  gather_facts: false
+  roles:
+   - nginx 

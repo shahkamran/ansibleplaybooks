@@ -1,0 +1,5 @@
+---
+- hosts: dbs
+  become: true
+  roles:
+   - mysql
