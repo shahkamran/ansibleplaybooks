@@ -15,3 +15,5 @@ I couldn't get the integration working but have managed to install Git and can r
  git config --global user.name "YOUR_USERNAME"
  git config --global user.email "your_email_address@example.com"
  git remote -v
+
+#
